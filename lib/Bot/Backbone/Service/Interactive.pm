@@ -164,6 +164,8 @@ has input_cleaner => (
 
 =head1 METHODS
 
+=head2 interactive_command
+
 Implements the code that searches each chat message for the prefix and routes
 any such command to the interactive program.
 
